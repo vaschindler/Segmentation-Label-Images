@@ -10,3 +10,4 @@ After training Deep learning frameworks on semantic images and getting the predi
 
 ![alt text](https://github.com/vaschindler/Segmentation-Label-Images/blob/master/aero63_40_01.jpg)
 
+Image and groundtruth are from the dataset Aeroscapes: https://github.com/ishann/aeroscapes
