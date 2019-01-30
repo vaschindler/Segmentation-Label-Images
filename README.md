@@ -6,8 +6,10 @@ After training Deep learning frameworks on semantic images and getting the predi
 
 * The code will arrange your images, groundtruth, segmentation overlay and prediction.
 * There will be placed the segmentation tags from the prediction image on the right side as labels.
+* Written in python 3.6
 
 
 ![alt text](https://github.com/vaschindler/Segmentation-Label-Images/blob/master/aero63_40_01.jpg)
 
 Image and groundtruth are from the dataset Aeroscapes: https://github.com/ishann/aeroscapes
+
